@@ -19,7 +19,8 @@ Features:
 Installation:
 
 1. Clone the Repository:
-  git clone https://github.com/your-username/your-repository.git
+  git clone 
+https://github.com/botshelomokoka/Seventrades
 
 2. Create Virtual Environment:
   python3 -m venv venv
