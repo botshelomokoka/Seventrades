@@ -6,8 +6,8 @@ from email import encoders
 import logging
 
 # --- EMAIL NOTIFICATION SETUP ---
-EMAIL_ADDRESS = 'your_email@gmail.com'  
-EMAIL_PASSWORD = 'your_password' 
+EMAIL_ADDRESS = 'botshelomokoka@gmail.com'  
+EMAIL_PASSWORD = 'pqss' 
 RECIPIENT_EMAIL = 'botshelomokoka@gmail.com'  
 
 def send_email(subject, body, attachment_path=None):
